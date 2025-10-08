@@ -1,1 +1,2 @@
-echo "print('Nueva línea agregada correctamente')" >> calculator.py # type: ignore
+print('Hola desde calcular.py')
+print('Nueva línea agregada correctamente')
